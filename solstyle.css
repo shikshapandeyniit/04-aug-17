@@ -1,0 +1,45 @@
+.col1{
+	width:30%;
+	
+	float:left;
+}
+.col2{
+	width:30%;
+}
+.col3{
+	width:30%;
+	float:right;
+}
+.wrap{
+	width:auto;
+	font-family: sans-serif;
+	
+	margin:auto;
+	border-radius: 6px;
+	
+}
+.menu{
+	text-align: right;
+}
+ li{
+	
+  display: inline-block;
+  
+}
+a{
+	text-decoration: none;
+}
+ul a:hover
+{
+	text-decoration: underline;
+	color: black;
+}
+.cc{
+	text-align: right;
+}
+.hi1{
+	background-color: #78ec67;
+	text-shadow: 2px 2px 2px;
+ letter-spacing: 1px;
+	color: black;
+}
